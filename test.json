@@ -1,0 +1,12 @@
+{
+    "measures": [
+        {
+            "name": "Temperature",
+            "value": 23
+        },
+        {
+            "name": "Battery Voltage",
+            "value": 3500
+        }
+    ]
+}
