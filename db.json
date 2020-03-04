@@ -2,7 +2,7 @@
     "measures": [
         {
             "name": "Temperature",
-            "value": 23,
+            "value": 23.0,
             "unit" : "ºC"
         },
         {
