@@ -2,11 +2,13 @@
     "measures": [
         {
             "name": "Temperature",
-            "value": 23
+            "value": 23,
+            "unit" : "ºC"
         },
         {
             "name": "Battery Voltage",
-            "value": 3500
+            "value": 12.6,
+            "unit" : "V"
         }
     ]
 }
