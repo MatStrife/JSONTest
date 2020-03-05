@@ -45,7 +45,7 @@
             "value": 800.00,
             "unit": "W/m²"
         }, 
-     ],
+     ]
     "status":
         {
             "name": "gps",
