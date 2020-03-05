@@ -1,14 +1,42 @@
 {
     "measures": [
         {
-            "name": "Temperature",
+            "name": "temperature",
             "value": 23.0,
-            "unit" : "ºC"
+            "unit" : "°C"
         },
         {
-            "name": "Battery Voltage",
+            "name": "battery voltage",
             "value": 12.6,
             "unit" : "V"
+        },
+        {
+            "name":"latitude",
+            "value": 0.0034234,
+            "unit": "°"
+        },
+        {
+            "name":"longitude",
+            "value": 0.0034234,
+            "unit": "°"
+        },
+        {
+            "name":"panel voltage",
+            "value": 19.24,
+            "unit": "V"
+        },        
+        {
+            "name":"humidity",
+            "value": 70.00,
+            "unit": "%"
+        },  
+        
+    ],
+    "status":
+        {
+            "name": "gps",
+            "value": false
         }
-    ]
 }
+    
+
