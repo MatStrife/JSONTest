@@ -1,60 +1,86 @@
 {
-    "measures": [
+    "category": [
         {
             "name": "temperature",
-            "value": 23.10,
-            "unit" : "°C"
+            "measure": [
+                {
+                    "name": null,
+                    "value": 23.10,
+                    "unit": "°C"
+                }
+            ]
         },
         {
             "name": "battery voltage",
-            "value": 12.60,
-            "unit" : "V"
+            "measure": [
+                {
+                    "name": null,
+                    "value": 12.60,
+                    "unit": "V"
+                }
+            ]
         },
         {
-            "name":"latitude",
-            "value": 0.0034234,
-            "unit": "°"
+            "name": "gps pos",
+            "measure": [
+                {
+                    "name": "latitude",
+                    "value": 0.0034234,
+                    "unit": "°"
+                },
+                {
+                    "name": "longitude",
+                    "value": 0.0034234,
+                    "unit": "°"
+                }
+            ]
         },
         {
-            "name":"longitude",
-            "value": 0.0034234,
-            "unit": "°"
+            "name": "panel voltage",
+            "measure": [
+                {
+                    "name": null,
+                    "value": 19.24,
+                    "unit": "V"
+                }
+            ]
         },
         {
-            "name":"panel voltage",
-            "value": 19.24,
-            "unit": "V"
-        },        
-        {
-            "name":"humidity",
-            "value": 70.00,
-            "unit": "%"
+            "name": "humidity",
+            "measure": [
+                {
+                    "name": null,
+                    "value": 70.00,
+                    "unit": "%"
+                }
+            ]
         },
         {
-            "name":"global",
-            "value": 1000.00,
-            "unit": "W/m²"
-        }, 
-        {
-            "name":"diffuse",
-            "value": 700.00,
-            "unit": "W/m²"
-        },
-        {
-            "name":"direct",
-            "value": 800.00,
-            "unit": "W/m²"
+            "name": "pyranometer",
+            "measure": [
+                {
+                    "name": "global",
+                    "value": 1000.00,
+                    "unit": "W/m²"
+                },
+                {
+                    "name": "diffuse",
+                    "value": 700.00,
+                    "unit": "W/m²"
+                },
+                {
+                    "name": "direct",
+                    "value": 800.00,
+                    "unit": "W/m²"
+                }
+            ]
         }
-     ],
-    "status":
-        {
-            "name": "gps",
-            "value": false
-        },
-    "timestamp":
-        {
-            "value":"2020-03-05_10-33-12"
-        }
+    ],
+    "status": {
+        "name": "gps",
+        "value": false
+    },
+    "timestamp": {
+        "value": "2020-03-05_10-33-12"
+    }
 }
-    
-
