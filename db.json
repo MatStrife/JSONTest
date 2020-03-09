@@ -2,7 +2,7 @@
     "category": [
         {
             "name": "temperature",
-            "measure": [
+            "measures": [
                 {
                     "name": null,
                     "value": 23.10,
@@ -12,7 +12,7 @@
         },
         {
             "name": "battery voltage",
-            "measure": [
+            "measures": [
                 {
                     "name": null,
                     "value": 12.60,
@@ -22,7 +22,7 @@
         },
         {
             "name": "gps pos",
-            "measure": [
+            "measures": [
                 {
                     "name": "latitude",
                     "value": 0.0034234,
@@ -37,7 +37,7 @@
         },
         {
             "name": "panel voltage",
-            "measure": [
+            "measures": [
                 {
                     "name": null,
                     "value": 19.24,
@@ -47,7 +47,7 @@
         },
         {
             "name": "humidity",
-            "measure": [
+            "measures": [
                 {
                     "name": null,
                     "value": 70.00,
@@ -57,7 +57,7 @@
         },
         {
             "name": "pyranometer",
-            "measure": [
+            "measures": [
                 {
                     "name": "global",
                     "value": 1000.00,
