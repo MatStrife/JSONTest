@@ -76,10 +76,12 @@
             ]
         }
     ],
-    "status": {
+    "status": [
+        {
         "name": "gps",
         "value": false
-    },
+        }
+    ],
     "timestamp": {
         "value": "2020-03-05_10-33-12"
     }
